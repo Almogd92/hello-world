@@ -1,2 +1,3 @@
 # hello-world
-The newest rep for uni
+
+My name is Almog and I'm a Bachlor of IT Student 
